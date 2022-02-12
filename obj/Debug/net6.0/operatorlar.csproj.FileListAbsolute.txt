@@ -1,0 +1,15 @@
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\bin\Debug\net6.0\operatorlar.exe
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\bin\Debug\net6.0\operatorlar.deps.json
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\bin\Debug\net6.0\operatorlar.runtimeconfig.json
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\bin\Debug\net6.0\operatorlar.dll
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\bin\Debug\net6.0\ref\operatorlar.dll
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\bin\Debug\net6.0\operatorlar.pdb
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\obj\Debug\net6.0\operatorlar.csproj.AssemblyReference.cache
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\obj\Debug\net6.0\operatorlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\obj\Debug\net6.0\operatorlar.AssemblyInfoInputs.cache
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\obj\Debug\net6.0\operatorlar.AssemblyInfo.cs
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\obj\Debug\net6.0\operatorlar.csproj.CoreCompileInputs.cache
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\obj\Debug\net6.0\operatorlar.dll
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\obj\Debug\net6.0\ref\operatorlar.dll
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\obj\Debug\net6.0\operatorlar.pdb
+C:\Users\muhammed karanfil\Desktop\deneme1\operatorler\operatorlar\obj\Debug\net6.0\operatorlar.genruntimeconfig.cache
